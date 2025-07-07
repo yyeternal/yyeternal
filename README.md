@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Jonathan</h1>
+### Hi 👋, I'm Jonathan
 <h3 align="center">A passionate fullstack developer</h3>
 
 - 🔭 I’m currently working on **a Facial Recognition Web App**
