@@ -1,11 +1,11 @@
-### Hi 👋, I'm Jonathan
+### Hi, I'm Jonathan
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🔭 I’m currently working on **a Facial Recognition Web App**
+- I’m currently working on **a Facial Recognition Web App**
 
-- 🌱 I’m currently learning **MongoDB, TensorFlow, and NestJS**
+- I’m currently learning **MongoDB, TensorFlow, and NestJS**
 
-- 👨‍💻 All of my projects are available at [https://jonathantinti.com/)
+- All of my projects are available at [https://jonathantinti.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
