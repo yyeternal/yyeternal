@@ -1,7 +1,7 @@
 ### Hi, I'm Jonathan
 <h3 align="center">A passionate fullstack developer</h3>
 
-- I’m currently working on **a Facial Recognition Web App**
+- I’m currently working on **a Sports League Web App**
 
 - I’m currently learning **MongoDB, TensorFlow, and NestJS**
 
